@@ -1,0 +1,37 @@
+.btn{
+	
+	padding-top:8px;
+	padding-bottom:8px;
+	
+	padding-left:12px;
+	padding-right:12px;
+	background-color:forestgreen;
+	color:white;
+	
+	border-radius:6px;
+	border-color:transparent;
+	border-style:solid;
+	border-width:1.5px;
+	
+}
+
+.btn-primary{
+	color:black;
+	background-color:#32cd73;
+}
+
+.btn-disable{
+	color:white;
+	background-color:#d42b37;
+}
+
+.btn-secondary{
+	color:white;
+	background-color:white;
+	color:black;
+	border-color:#7e7e81;
+	
+}
+div {
+	margin-top:10px;
+}
